@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.header-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+li {
+  margin-right: 20px;
+}
+.links {
+  text-decoration: none;
+}
